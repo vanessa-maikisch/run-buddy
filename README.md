@@ -1,4 +1,4 @@
-# Run Buddy Inc. test
+# Run Buddy Test
 
 ## A website that offers fitness training services.
 
