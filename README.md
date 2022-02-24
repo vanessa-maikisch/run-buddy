@@ -1,4 +1,4 @@
-# run-buddy
+# run-buddy 
 
 ## A website that offers fitness training services.
 
