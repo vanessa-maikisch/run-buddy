@@ -7,3 +7,5 @@
 ## Website https://lernantino.github.io/run-buddy/
 
 ## Made with ❤️ by Vanessa Maikisch
+
+### ©️2019 Run Buddy, Inc 
